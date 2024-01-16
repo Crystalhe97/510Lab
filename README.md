@@ -11,7 +11,11 @@ python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 ```
-and then use ‘streamlit run app.py'
+and then use the following commands to run
+
+```
+streamlit run app.py
+```
 
 ## What's Included
 
